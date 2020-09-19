@@ -71,6 +71,9 @@
   </developers>
 
   <properties>
+    <sonar.projectKey>i-xfliu_joauth</sonar.projectKey>
+    <sonar.organization>i-xfliu</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
